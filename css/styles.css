@@ -2,11 +2,13 @@ h1{
   font-size: 100px;
   color: pink;
   font-family: cursive;
+  text-align: center;
 }
 
 p{
   font-size: 50px;
   font-family: 'Times New Roman', Times, serif;
   color: aqua;
+  text-align: center;
 }
 
